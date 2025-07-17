@@ -18,7 +18,7 @@
                     <span aria-hidden="true">&times;</span>
                 </button>
             </div>
-            <form method="POST" action="<?= base_url('user/simpan') ?>">
+            <form method="POST" action="<?= base_url('user/simpan')?>">
                 <div class="modal-body">
                     <div class="form-group">
                         <label for="name">Nama</label>
